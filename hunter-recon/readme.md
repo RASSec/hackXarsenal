@@ -1,7 +1,7 @@
 ## hunter-recon 
 
 ### What it does ? 
- - fetches subdomains of a target using amass,subdfinder,assetfinder passively
+ - fetches subdomains of a target using amass,subdfinder,assetfinder , github-subdomains.py passively
  - resolves the found subdomains 
  - queries tls.bufferover.run API for IPs 
  - merges IP found by bufferove API and massdns 
