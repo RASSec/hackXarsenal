@@ -1,0 +1,13 @@
+paths :
+      subfinder : /usr/bin/subfinder
+      amass : /snap/bin/amass
+      assetfinder : /usr/bin/assetfinder
+      massdns : /usr/bin/massdns
+      resolver_path : /home/levi/Desktop/Warzone/Base/tools/asset-recon/massdns/lists/resolvers.txt
+      github-subdomains : /home/levi/Desktop/Warzone/Base/tools/asset-recon/github-subdomains.py 
+      masscan : /usr/bin/masscan
+      httpx : /usr/bin/httpx
+      dnsgen : /usr/local/bin/dnsgen
+
+tokens : 
+      github : token
