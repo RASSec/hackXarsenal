@@ -45,12 +45,9 @@ output
         `-- lpu.in.txt              (all the subdomains i.e alive+dead)
 
 
-### Passing a list of root domains
-`{cat hosts.txt | xargs -I % python3 hunter.py -d % }`
+Passing a list of root domains
 
-
-
-
+command : {cat hosts.txt | xargs -I % python3 hunter.py -d % }
 
 
  ```
