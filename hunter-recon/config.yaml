@@ -4,8 +4,7 @@ paths :
       assetfinder : /usr/bin/assetfinder
       massdns : /usr/bin/massdns
       resolver_path : /home/levi/Desktop/Warzone/Base/tools/asset-recon/massdns/lists/resolvers.txt
-      github-subdomains : /home/levi/Desktop/Warzone/Base/tools/asset-recon/github-subdomains.py 
-      masscan : /usr/bin/masscan
+      github-subdomains : /home/levi/Desktop/Warzone/Base/tools/asset-recon/github-subdomains.py
       httpx : /usr/bin/httpx
       dnsgen : /usr/local/bin/dnsgen
 
